@@ -1,0 +1,16 @@
+{ 
+
+    "nombre"      : "Manuel Lara Torres",
+    "descripcion" : "Estudiante de tercer año del Grado en Ingeniería Informática de la Universidad de Jaén.",
+    "correo"      : "mlt00024@red.ujaen.es",
+    "github"      : "https://github.com/mlt00024",
+    "trello"      :  "https://trello.com/b/mRny3Om1/mlt00024",
+    "foto"        : "https://raw.githubusercontent.com/UJA-DAGIL-22-23/dagil-2022-2023-practica-1-mlt00024/main/manuel.jpg",
+    "capturas"    : [
+                        "https://raw.githubusercontent.com/UJA-DAGIL-22-23/dagil-2022-2023-practica-1-mlt00024/main/trello%20inicio.png",
+                        "https://raw.githubusercontent.com/UJA-DAGIL-22-23/dagil-2022-2023-practica-1-mlt00024/main/inicio-github.png"
+                        "https://raw.githubusercontent.com/UJA-DAGIL-22-23/dagil-2022-2023-practica-1-mlt00024/main/trello-final.png"
+
+                    ]
+
+}
