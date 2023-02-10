@@ -5,5 +5,5 @@
 
 Estudiante de tercer año del Grado en Ingeniería Informática de la Universidad de Jaén.
 * **Correo**: mlt00024@red.ujaen.es
-* **GitHub**: https://github.com/vrivas/
-* **Trello**: https://trello.com/vrivas_ujaen_es
+* **GitHub**: https://github.com/mlt00024
+* **Tablero Trello**: https://trello.com/b/mRny3Om1/mlt00024
